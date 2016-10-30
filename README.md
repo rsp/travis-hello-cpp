@@ -4,6 +4,8 @@ Simple Travis example for C++ using the default Travis image and default version
 
 For a version using modern versions of compilers see: [travis-hello-modern-cpp][modern-cpp-url]). Why a separate vesrions for C++? The onle with older compiers is faster but the one with newer compilers has support for C++14 and beyond. See [travis-hello-modern-cpp][modern-cpp-url] for details.
 
+Test results:
+
 [<img alt="Build Status" src="https://travis-ci.org/rsp/travis-hello-cpp.svg?branch=master" height="40">][travis-url]
 
 Important files:
