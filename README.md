@@ -1,6 +1,8 @@
 Travis Hello C++ [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
 =
-Simple Travis example for C++ using the default Travis image and default version of GCC and Clang compilers. (For a version using modern versions of compilers see: [travis-hello-modern-cpp][modern-cpp-url])
+Simple Travis example for C++ using the default Travis image and default version of GCC and Clang compilers.
+
+(For a version using modern versions of compilers see: [travis-hello-modern-cpp][modern-cpp-url])
 
 [<img alt="Build Status" src="https://travis-ci.org/rsp/travis-hello-cpp.svg?branch=master" height="40">][travis-url]
 
