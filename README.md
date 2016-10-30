@@ -1,6 +1,6 @@
 Travis Hello C++ [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
 =
-Simple Travis example for C++
+Simple Travis example for C++ using the default Travis image and default version of GCC and Clang compilers. (For a version using modern versions of compilers see: [travis-hello-modern-cpp][modern-cpp-url])
 
 [<img alt="Build Status" src="https://travis-ci.org/rsp/travis-hello-cpp.svg?branch=master" height="40">][travis-url]
 
@@ -11,7 +11,7 @@ Important files:
 * [test](test)
 * [.travis.yml](.travis.yml)
 
-For more info and list of other languages see:
+For more info and examples for other languages see:
 
 * https://github.com/rsp/travis-hello
 
@@ -37,6 +37,7 @@ License
 MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 
 [main-url]: https://github.com/rsp/travis-hello
+[modern-cpp-url]: https://github.com/rsp/travis-hello-modern-cpp
 [github-url]: https://github.com/rsp/travis-hello-cpp
 [readme-url]: https://github.com/rsp/travis-hello-cpp#readme
 [issues-main-url]: https://github.com/rsp/travis-hello/issues
@@ -48,7 +49,7 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [forks-img]: https://img.shields.io/github/forks/rsp/travis-hello-cpp.svg?style=social&amp;label=Forks
 [watchers-img]: https://img.shields.io/github/watchers/rsp/travis-hello-cpp.svg?style=social&amp;label=Watchers
 [tweet-img]: https://img.shields.io/twitter/url/https/github.com/rsp/travis-hello-cpp.svg?style=social
-[tweet-url]: https://twitter.com/intent/tweet?text=%23Travis+example+for+C%2b%2b+by+@pocztarski:&url=https%3A%2F%2Fgithub.com%2Frsp%2Ftravis-hello-cpp
+[tweet-url]: https://twitter.com/intent/tweet?text=%23Travis+example+for+C%2b%2b+with+default+GCC+and+Clang+by+@pocztarski:&url=https%3A%2F%2Fgithub.com%2Frsp%2Ftravis-hello-cpp
 [license-url]: https://github.com/rsp/travis-hello-cpp/blob/master/LICENSE.md
 [license-img]: https://img.shields.io/github/license/rsp/travis-hello-cpp.svg
 [travis-url]: https://travis-ci.org/rsp/travis-hello-cpp
